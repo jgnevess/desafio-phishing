@@ -16,4 +16,4 @@
 
 # Resultado
 
-![Alt text](./ "Optional title")
+![Alt text](./pass.png "Optional title")
